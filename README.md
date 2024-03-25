@@ -1,6 +1,6 @@
 A website created for my Masters course - (ADM6012) Web Technologies.
 
-Programing languages used:
+Programming languages used:
 HTML
 CSS
 
